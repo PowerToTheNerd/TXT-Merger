@@ -9,7 +9,7 @@ This tool combines all `.txt` files within a specified directory into a single o
 
 ### Example
 Given files:
-- `section2.8.txt`
-- `section10.2.txt`
+- `section 2.8.txt`
+- `section 10.2.txt`
 
 The tool can sort and merge them in numerical order.
