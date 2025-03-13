@@ -17,3 +17,6 @@ Given files:
 - `section 10.2.txt`
 
 The tool can sort and merge them in numerical order.
+
+## Use txt_merger_basic.py 
+If your `.txt` files are named in a simple numerical or alphabetical order, such as `note1.txt`, `2.txt`, `note3.txt`, you can use the basic file ordering feature to merge them in sequence.
