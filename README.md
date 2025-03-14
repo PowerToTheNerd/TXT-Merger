@@ -1,7 +1,7 @@
 # Text File Merger
 
 ## Using the Executable File
-If you prefer to use the executable file, simply download and run `txt_merger.exe`. This will handle the merging process without needing to follow the steps below.
+If you prefer to use the executable file, simply download and run `txt_merger_basic.exe`. This will handle the merging process without needing to follow the steps below.
 
 If you don't care about the order ignore this and continue. If not I'd recommend naming them like note1.txt note2.txt in the order you want them in the main.txt file. The program will extract note1.txt first and so on.
 
